@@ -32,6 +32,7 @@ module.exports = function () {
     'dataPath': [
       'https://regensburg.freifunk.net/data/'
     ],
+    'reverseGeocodingApi': 'https://regensburg.freifunk.net/geocoding/reverse',
     'siteName': 'Freifunk Regensburg',
     'mapLayers': [
       {
